@@ -1,0 +1,7 @@
+<suite name="MakeMyTripSuite">
+	<test name="MakeMyTripTest">
+		<classes>
+			<class name="makeMyTripPackage.TestNG_Comprehensive5"></class>
+		</classes>
+	</test>
+</suite>
